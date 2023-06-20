@@ -1,0 +1,40 @@
+# ASP.NET Core MVC
+
+## Ignore Visual Studio temporary files, build results, and caches
+.vs/
+bin/
+obj/
+
+## Ignore NuGet package directory
+## Uncomment the line below if you have NuGet packages in the project
+packages/
+
+## Ignore user-specific files and settings
+appsettings.Development.json
+appsettings.Production.json
+launchSettings.json
+
+## Ignore the development database file
+*.db
+
+## Ignore client-side libraries (e.g., npm, yarn, etc.)
+node_modules/
+wwwroot/lib/
+
+## Ignore build and deployment scripts
+build/
+deployment/
+
+## Ignore log files and other generated output
+*.log
+*.bak
+*.cache
+*.swp
+
+## Ignore local user-specific files
+.env
+.vscode/
+.idea/
+
+## Ignore Solutions file
+*.sln
